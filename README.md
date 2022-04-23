@@ -15,4 +15,4 @@ Breakout Ball is a game developed using the concepts of java like Frames, Swings
 5. Implement the actions of the keys and the objects.
 
 ## Architecture Diagram
-![This is an image]("C:\Users\Meghana\Pictures\architecture.jpg")
+![Flowchart](architecture.jpg)
